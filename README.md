@@ -2,13 +2,17 @@
 
 这是《勇者之路 2》的非官方重构改版，玩家包包含游戏运行文件与 [Ruffle](https://ruffle.rs/) 桌面运行器。
 
-当前版本：[v0.3.0 预览版](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.3.0-preview.1)。开放前八大关至「哥布林王国」，接入新世界地图，并收录当前本机全部游戏改动。
+当前版本：[v0.3.0-preview.3](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.3.0-preview.3)。开放前八大关至「哥布林王国」，包含 EXE 安装和一次性金币补偿。
 
-1. 在 [Releases](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases) 下载最新的 windows-x64.zip。
-2. 完整解压到固定文件夹，双击「开始游戏.bat」。
-3. 运行不畅时使用「开始游戏-兼容模式.bat」。
+1. 在 [Releases](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.3.0-preview.3) 下载 windows-x64-setup.exe。
+2. 双击安装包选择游戏目录。已有玩家请选择原游戏目录，以继续读取原存档。
+3. 安装后从桌面快捷方式或「开始游戏.exe」游玩。运行不畅时使用「开始游戏-兼容模式.exe」。
 
-每次启动时客户端检查 GitHub Release，下载、校验并安装新版本，再进入游戏。离线或更新失败时继续运行已安装版本。保持游戏目录路径固定，可继续读取原存档。
+每个存档角色首次进入本版自动领取 1000 金币；新角色同样领取。金额与领取标记一同保存，重复读档、重新启动和后续更新均不会重复发放。
+
+每次启动时客户端检查 GitHub Release，下载、校验并安装新版本，再进入游戏。离线或更新失败时继续运行已安装版本。ZIP 附件继续供自动更新和手动覆盖原目录使用。游戏入口使用 EXE，更新组件随安装包保留。
+
+Ruffle 桌面版当前缺少音频输出热切换恢复。使用蓝牙时先连接设备并设为 Windows 默认输出，Ruffle 输出设备选择 Default，然后完全关闭并重启游戏。
 
 通关 5-5 或通过 7-5 出口可开放第八大关；第八关通关后保存并返回村庄。道路随对应出口完成而显现，旧存档保留已开放关卡，未知通关与路线记录随重玩补齐。影月城、古墓深处与海域留待后续开放。
 
