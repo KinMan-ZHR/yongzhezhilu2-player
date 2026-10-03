@@ -1,10 +1,12 @@
 # 勇者之路 2 玩家版
 
+本版修复城镇购买 1 瓶或 12 瓶药剂后快捷栏数量未刷新的问题，覆盖单人和双人红蓝药剂，保留战斗性能优化。
+
 这是《勇者之路 2》的非官方重构改版，玩家包包含游戏运行文件与 [Ruffle](https://ruffle.rs/) 桌面运行器。
 
-当前版本：[v0.3.0-preview.4](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.3.0-preview.4)。开放前八大关至「哥布林王国」，收录群战性能、树精战斗与世界地图优化，并提供 EXE 安装。
+当前版本：[v0.3.0-preview.5](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.3.0-preview.5)。开放前八大关至「哥布林王国」，收录群战性能、树精战斗与世界地图优化，并提供 EXE 安装。
 
-1. 在 [Releases](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.3.0-preview.4) 下载 windows-x64-setup.exe。
+1. 在 [Releases](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.3.0-preview.5) 下载 windows-x64-setup.exe。
 2. 双击安装包选择游戏目录。已有玩家请选择原游戏目录，以继续读取原存档。
 3. 安装后从桌面快捷方式或「开始游戏.exe」游玩。运行不畅时使用「开始游戏-兼容模式.exe」。
 
