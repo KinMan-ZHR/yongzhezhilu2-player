@@ -4,11 +4,11 @@
 
 这是《勇者之路 2》的非官方重构改版，玩家包包含游戏运行文件与 [Ruffle](https://ruffle.rs/) 桌面运行器。
 
-当前版本：[v0.4.1](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.4.1)。开放前八大关至「哥布林王国」，包含最新 Boss 套装分组与提示优化，并提供 EXE 安装。
+当前版本：[v0.4.2](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.4.2)。开放前八大关至「哥布林王国」，同步本机技能平衡、战士变身普攻提速25%、龙王三件套暴击15%、动态Boss血条和世界地图显示更新，并提供 EXE 安装包。
 Boss套装的防具与首饰分别提供完整效果的40%，五件齐全合计100%。套装提示保留完整部件列表，分组用浅紫色、完整套装用暖金色，双档数值只点亮当前生效的一档。
 
 
-1. 在 [Releases](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.4.1) 下载 windows-x64-setup.exe。
+1. 在 [Releases](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.4.2) 下载 windows-x64-setup.exe。
 2. 双击安装包选择游戏目录。已有玩家请选择原游戏目录，以继续读取原存档。
 3. 安装后从桌面快捷方式或「开始游戏.exe」游玩。运行不畅时使用「开始游戏-兼容模式.exe」。
 
