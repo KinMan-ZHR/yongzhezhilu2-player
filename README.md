@@ -10,12 +10,12 @@
 
 这是《勇者之路 2》的非官方重构改版，玩家包包含游戏运行文件与 [Ruffle](https://ruffle.rs/) 桌面运行器。
 
-当前版本：[v0.5.10](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.5.10)，开放前八大关。本版使用带专属图标的单一「开始游戏.exe」入口，启动更新窗口提供完全免费说明和可点击的 GitHub 玩家版页面。安装与更新自动清理旧游戏 BAT、兼容入口及 DirectX12 实验入口。
+当前版本：[v0.5.11](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.5.11)，开放前八大关。本版使用带专属图标的单一「开始游戏.exe」入口，启动更新窗口提供完全免费说明和可点击的 GitHub 玩家版页面。安装与更新自动清理旧游戏 BAT、兼容入口及 DirectX12 实验入口。
 
 <!-- player-release-summary:start -->
-v0.5.10 更新说明：
+v0.5.11 更新说明：
 
-修复索芬未加载的bug
+修复牛魔王不刷新的bug
 <!-- player-release-summary:end -->
 
 新版战斗内容包含魔神枪、锁链与魔轮转的统一紫蓝配色，保留金色闪电、白色高光与明暗层次，修复施法时的魔神外形与叠加特效；战神和魔神期间禁止切换职业，技能提示同步各自设置的实际快捷键，并包含本机怪物配置及大野猪连续冲刺修复。
