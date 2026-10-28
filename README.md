@@ -4,18 +4,17 @@
 
 [下载最新玩家版（GitHub）](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/latest) · [Gitee 镜像](https://gitee.com/ciel-zhang/yongzhezhilu2-player/releases) · [赞助我吧](https://github.com/KinMan-ZHR/yongzhezhilu2-player/blob/master/docs/sponsor.md)
 
-这是《勇者之路 2》的非官方重构改版，支持单人冒险和本地双人合作，玩家包包含游戏运行文件与 Ruffle 桌面运行器。目前持续修复关卡问题并优化战斗体验，v0.8.18 属于内测阶段。
+这是《勇者之路 2》的非官方重构改版，支持单人冒险和本地双人合作，玩家包包含游戏运行文件与 Ruffle 桌面运行器。目前持续修复关卡问题并优化战斗体验，v0.8.19 属于内测阶段。
 
-当前内测先行版本：[v0.8.18](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.8.18)。
+当前内测先行版本：[v0.8.19](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.8.19)。
 
 <!-- player-release-summary:start -->
-v0.8.18 更新说明：
+v0.8.19 更新说明：
 
-- 新增女性勇者外形，新建存档可选择角色性别。
-- 优化角色头像和装备界面，修复性别选择中的文字显示。
-- 兼容旧存档的角色性别，已有存档可继续使用。
-- 调整普通与专家难度的战斗体验。
-- 大师难度暂未开放。
+- 实装血月分阶段事件，调整狂化大野猪与狼王的出场规则。
+- 新增血月限定圣骑士套装，穿齐后可减轻伤害并阻止敌人恢复生命。
+- 为圣骑士装备制作专属美术，背包、穿戴栏与地面掉落同步显示。
+- 同步当前装备平衡与玩法说明，继续沿用已有存档。
 <!-- player-release-summary:end -->
 
 战士与法师拥有各自的变身技能。变身期间无法切换职业，技能与快捷键请以游戏内提示和当前改键设置为准。装备、技能及状态效果以游戏内说明为准。
