@@ -4,19 +4,18 @@
 
 [下载最新玩家版（GitHub）](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/latest) · [Gitee 镜像](https://gitee.com/ciel-zhang/yongzhezhilu2-player/releases) · [赞助我吧](https://github.com/KinMan-ZHR/yongzhezhilu2-player/blob/master/docs/sponsor.md)
 
-这是《勇者之路 2》的非官方重构改版，支持单人冒险和本地双人合作，玩家包包含游戏运行文件与 Ruffle 桌面运行器。目前持续修复关卡问题并优化战斗体验，v0.8.17 属于内测阶段。
+这是《勇者之路 2》的非官方重构改版，支持单人冒险和本地双人合作，玩家包包含游戏运行文件与 Ruffle 桌面运行器。目前持续修复关卡问题并优化战斗体验，v0.8.18 属于内测阶段。
 
-当前内测先行版本：[v0.8.17](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.8.17)。
+当前内测先行版本：[v0.8.18](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.8.18)。
 
 <!-- player-release-summary:start -->
-v0.8.17 更新说明：
+v0.8.18 更新说明：
 
-- 普通难度不再受到地图寒冷、热浪与岩浆灼烧影响，装备与怪物招式的状态效果仍按各自规则生效。
-- 修正普通难度的等级显示，并校正经验结算及保存时残留的旧等级上限。
-- 启动器加入“赞助我吧”，直接显示收款码，无需跳转网页。
-- 更新玩家页面，移除过时介绍与公开数值表，沿用已有存档。
-
-本次更新仅发布 GitHub。启动器使用 Gitee 线路的玩家，请切换至 GitHub 检查更新。
+- 新增女性勇者外形，新建存档可选择角色性别。
+- 优化角色头像和装备界面，修复性别选择中的文字显示。
+- 兼容旧存档的角色性别，已有存档可继续使用。
+- 调整普通与专家难度的战斗体验。
+- 大师难度暂未开放。
 <!-- player-release-summary:end -->
 
 战士与法师拥有各自的变身技能。变身期间无法切换职业，技能与快捷键请以游戏内提示和当前改键设置为准。装备、技能及状态效果以游戏内说明为准。
