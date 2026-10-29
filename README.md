@@ -4,17 +4,16 @@
 
 [下载最新玩家版（GitHub）](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/latest) · [Gitee 镜像](https://gitee.com/ciel-zhang/yongzhezhilu2-player/releases) · [赞助我吧](https://github.com/KinMan-ZHR/yongzhezhilu2-player/blob/master/docs/sponsor.md)
 
-这是《勇者之路 2》的非官方重构改版，支持单人冒险和本地双人合作，玩家包包含游戏运行文件与 Ruffle 桌面运行器。目前持续修复关卡问题并优化战斗体验，v0.8.21 属于内测阶段。
+这是《勇者之路 2》的非官方重构改版，支持单人冒险和本地双人合作，玩家包包含游戏运行文件与 Ruffle 桌面运行器。目前持续修复关卡问题并优化战斗体验，v0.8.22 属于内测阶段。
 
-当前内测先行版本：[v0.8.21](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.8.21)。
+当前内测先行版本：[v0.8.22](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.8.22)。
 
 <!-- player-release-summary:start -->
-v0.8.21 更新说明：
+v0.8.22 更新说明：
 
-- 调整怪物等级、战斗表现和装备属性，优化游戏平衡。
-- 调整龙焰装备的叠加规则与装备提示排版。
-- 击败影月城鬼忍后解锁大师模式，已有通关记录也可解锁。
-- 优化技能表现与部分装备图标。
+- 调整大师模式开放范围，现阶段开放前两个大关及对应挑战。
+- 大师模式仍在击败影月城鬼忍后解锁，已有存档进度保留。
+- 普通与专家模式保持现有开放范围。
 
 本次更新仅发布 GitHub。启动器使用 Gitee 线路的玩家，请切换至 GitHub 检查更新。
 <!-- player-release-summary:end -->
