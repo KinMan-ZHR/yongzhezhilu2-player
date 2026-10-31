@@ -4,18 +4,18 @@
 
 [下载最新玩家版（GitHub）](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/latest) · [Gitee 镜像](https://gitee.com/ciel-zhang/yongzhezhilu2-player/releases) · [赞助我吧](https://github.com/KinMan-ZHR/yongzhezhilu2-player/blob/master/docs/sponsor.md)
 
-这是《勇者之路 2》的非官方重构改版，支持单人冒险和本地双人合作，玩家包包含游戏运行文件与 Ruffle 桌面运行器。目前持续修复关卡问题并优化战斗体验，v0.9.1 属于内测阶段。
+这是《勇者之路 2》的非官方重构改版，支持单人冒险和本地双人合作，玩家包包含游戏运行文件与 Ruffle 桌面运行器。目前持续修复关卡问题并优化战斗体验，v0.9.2 属于内测阶段。
 
-当前内测先行版本：[v0.9.1](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.9.1)。
+当前内测先行版本：[v0.9.2](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.9.2)。
 
 <!-- player-release-summary:start -->
-v0.9.1 更新说明：
+v0.9.2 更新说明：
 
-- 通关主线哥布林国王后开放影月城；击败鬼忍后解锁大师模式，并显示解锁提示。
-- 调整哥布林国王关卡的分阶段出场，修复深渊挑战头像与开场流程。
-- 修复怪物攻击造成的冰镇叠层异常，保留角色自身冰镇的效果。
-- 调整地裂战斧飞斧的战斗表现，优化游戏提示的显示层级。
-- 保留旧存档已开放的影月城进度。
+- 优化鬼忍跨平台追击与技能选招，专家模式增加跳跃追击。
+- 调整影月城平台布局，改善关卡体验。
+- 优化大师模式野猪王的出手与招式衔接。
+- 更新大师模式装备掉落、怪物、关卡及难度战斗平衡。
+- 专家模式通关影月城后解锁大师模式，已解锁的玩家保留权限。
 <!-- player-release-summary:end -->
 
 战士与法师拥有各自的变身技能。变身期间无法切换职业，技能与快捷键请以游戏内提示和当前改键设置为准。装备、技能及状态效果以游戏内说明为准。
