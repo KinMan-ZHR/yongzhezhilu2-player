@@ -4,22 +4,23 @@
 
 [下载最新玩家版（GitHub）](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/latest) · [Gitee 镜像](https://gitee.com/ciel-zhang/yongzhezhilu2-player/releases) · [赞助我吧](https://github.com/KinMan-ZHR/yongzhezhilu2-player/blob/master/docs/sponsor.md)
 
-这是《勇者之路 2》的非官方重构改版，支持单人冒险和本地双人合作，玩家包包含游戏运行文件与 Ruffle 桌面运行器。目前持续修复关卡问题并优化战斗体验，v0.9.0 属于内测阶段。
+这是《勇者之路 2》的非官方重构改版，支持单人冒险和本地双人合作，玩家包包含游戏运行文件与 Ruffle 桌面运行器。目前持续修复关卡问题并优化战斗体验，v0.9.1 属于内测阶段。
 
-当前内测先行版本：[v0.9.0](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.9.0)。
+当前内测先行版本：[v0.9.1](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.9.1)。
 
 <!-- player-release-summary:start -->
-v0.9.0 更新说明：
+v0.9.1 更新说明：
 
-- 血月新增狂化首领的血色眼瞳表现。
-- 调整血月狂化大野猪和狼王的出场规则。
-- 血月冰雪女皇新增玄冰之核掉落，并调整突破道具使用规则。
-- 血月进阶阶段击败冰雪女皇可强化本次掉落装备。
+- 通关主线哥布林国王后开放影月城；击败鬼忍后解锁大师模式，并显示解锁提示。
+- 调整哥布林国王关卡的分阶段出场，修复深渊挑战头像与开场流程。
+- 修复怪物攻击造成的冰镇叠层异常，保留角色自身冰镇的效果。
+- 调整地裂战斧飞斧的战斗表现，优化游戏提示的显示层级。
+- 保留旧存档已开放的影月城进度。
 <!-- player-release-summary:end -->
 
 战士与法师拥有各自的变身技能。变身期间无法切换职业，技能与快捷键请以游戏内提示和当前改键设置为准。装备、技能及状态效果以游戏内说明为准。
 
-关卡开放：前八大关基础开放，道路随对应出口完成而显现。完成哥布林国王深渊挑战后解锁影月城；古墓深处与海域保持锁定。已有存档保留已开放关卡，缺少的路线记录可通过重玩补齐。
+关卡开放：前八大关基础开放，道路随对应出口完成而显现。击败主线哥布林国王后解锁影月城；古墓深处与海域保持锁定。已有存档保留已开放关卡，缺少的路线记录可通过重玩补齐。
 
 1. 新玩家在 [GitHub Releases](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/latest) 下载名称以 windows-x64-setup.exe 结尾的安装包。[Gitee 下载页](https://gitee.com/ciel-zhang/yongzhezhilu2-player/releases) 提供启动器自动更新所需文件。
 2. 双击安装包，选择游戏目录。已有玩家请选择原游戏目录，以沿用存档。
