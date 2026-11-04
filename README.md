@@ -4,18 +4,19 @@
 
 [下载最新玩家版（GitHub）](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/latest) · [Gitee 镜像](https://gitee.com/ciel-zhang/yongzhezhilu2-player/releases) · [赞助我吧](https://github.com/KinMan-ZHR/yongzhezhilu2-player/blob/master/docs/sponsor.md)
 
-这是《勇者之路 2》的非官方重构改版，支持单人冒险和本地双人合作，玩家包包含游戏运行文件与 Ruffle 桌面运行器。目前持续修复关卡问题并优化战斗体验，v0.9.4 属于内测阶段。
+这是《勇者之路 2》的非官方重构改版，支持单人冒险和本地双人合作，玩家包包含游戏运行文件与 Ruffle 桌面运行器。目前持续修复关卡问题并优化战斗体验，v0.9.5 属于内测阶段。
 
-当前内测先行版本：[v0.9.4](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.9.4)。
+当前内测先行版本：[v0.9.5](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.9.5)。
 
 <!-- player-release-summary:start -->
-v0.9.4 更新说明：
+v0.9.5 更新说明：
 
-- 大师模式开放第三、第四大关；第三大关隐藏首领挑战失败后也可继续前往第四大关。
-- 调整大师难度怪物的攻击、追击和精英机制。
-- 优化鬼忍飞镖、射弹碰撞和战斗表现。
-- 调整装备掉落、套装属性与护符效果。
-- 修复跳跃、跨平台追击和深渊场景中的问题。
+- 村庄新增兑换奖励入口，支持金币与物品奖励，兑换记录随存档保存。
+- 修复鬼忍隐身透明度叠加及技能特效异常，冰镇染色保持原有隐身效果。
+- 修正邪龙武器的炎热判定。
+- 优化敌人受阻跳跃、跨平台追击及大师模式射弹朝向。
+- 调整鬼忍双侧刀刃的判定与选招范围。
+兑换奖励需要联网；当前兑换服务在部分网络环境下需要代理才能连接。请保留原存档目录进行更新。
 <!-- player-release-summary:end -->
 
 战士与法师拥有各自的变身技能。变身期间无法切换职业，技能与快捷键请以游戏内提示和当前改键设置为准。装备、技能及状态效果以游戏内说明为准。
