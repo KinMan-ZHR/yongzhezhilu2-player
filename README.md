@@ -4,14 +4,14 @@
 
 [下载最新玩家版（GitHub）](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/latest) · [Gitee 镜像](https://gitee.com/ciel-zhang/yongzhezhilu2-player/releases) · [赞助我吧](https://github.com/KinMan-ZHR/yongzhezhilu2-player/blob/master/docs/sponsor.md)
 
-这是《勇者之路 2》的非官方重构改版，支持单人冒险和本地双人合作，玩家包包含游戏运行文件与 Ruffle 桌面运行器。目前持续修复关卡问题并优化战斗体验，v0.9.5.1 属于内测阶段。
+这是《勇者之路 2》的非官方重构改版，支持单人冒险和本地双人合作，玩家包包含游戏运行文件与 Ruffle 桌面运行器。目前持续修复关卡问题并优化战斗体验，v0.9.6 属于内测阶段。
 
-当前内测先行版本：[v0.9.5.1](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.9.5.1)。
+当前内测先行版本：[v0.9.6](https://github.com/KinMan-ZHR/yongzhezhilu2-player/releases/tag/v0.9.6)。
 
 <!-- player-release-summary:start -->
-v0.9.5.1 更新说明：
+v0.9.6 更新说明：
 
-- 更新启动器：新增正式版/测试版通道与本地版本切换缓存。
+- 新增开局特性系统、传奇存档、特性界面重制。\n- 小怪装备掉落率调整。\n- 新建角色后返回存档列表，旧存档首次进入补选特性。\n- 兑换码面板新增微信赞助码与玩家群入口。\n- 冰镇每层降低闪避。
 <!-- player-release-summary:end -->
 
 战士与法师拥有各自的变身技能。变身期间无法切换职业，技能与快捷键请以游戏内提示和当前改键设置为准。装备、技能及状态效果以游戏内说明为准。
